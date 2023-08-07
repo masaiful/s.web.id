@@ -1,4 +1,4 @@
-Sitemap: https://www.bobmonsour.com/sitemap.xml
+Sitemap: https://saifulmuhajir.web.id/sitemap.xml
 
 User-agent: *
 Disallow:
